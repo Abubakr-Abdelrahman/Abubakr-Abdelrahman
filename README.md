@@ -3,6 +3,15 @@
 
 **Abubakr-Abdelrahman/Abubakr-Abdelrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+## Education
+- [COMSATS University, Islamabad](https://islamabad.comsats.edu.pk/)
+- [University of Khartoum, Khartoum](https://sudanuniversities.org/listing/khartoum/)
+- [Omdurman Islamic University, Omdurman](https://www.oiu.edu.sd/?language=en)
+
+##Projects
+- 
+
 Here are some ideas to get you started:
 - 😊😊😊😊😊😊😊😊😊😊😊😊😊😊
 - 🔭 I’m currently working on ...
