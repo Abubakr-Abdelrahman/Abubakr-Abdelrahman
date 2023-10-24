@@ -1,8 +1,6 @@
 ### Abubakr Abdelrahman
 
 
-**Abubakr-Abdelrahman/Abubakr-Abdelrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 ## Education
 - [COMSATS University, Islamabad](https://islamabad.comsats.edu.pk/)
