@@ -1,4 +1,8 @@
-### Abubakr Abdelrahman
+## Abubakr Abdelrahman
+
+
+[![](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/abubakr-abdelrahman/)
+
 I am a Remote Sensing and GIS specialist. My Rea of expertise and interests include Geographic Information Science (GIS), remote sensing. I make maps, experienced in creating, analyzing, managing, and mapping geospatial data. I have a passion in GIS, so I like to make maps
 and learn new GIS-related skills in my spare time. I am particularly interested in finding ways to use remote sensing techniques
 for delineating minerals and geological mapping. I have basic scripting skills using Python and JavaScript that
