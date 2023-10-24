@@ -1,5 +1,8 @@
 ### Abubakr Abdelrahman
-
+I am a Remote Sensing and GIS specialist. My Rea of expertise and interests include Geographic Information Science (GIS), remote sensing. I make maps, experienced in creating, analyzing, managing, and mapping geospatial data. I have a passion in GIS, so I like to make maps
+and learn new GIS-related skills in my spare time. I am particularly interested in finding ways to use remote sensing techniques
+for delineating minerals and geological mapping. I have basic scripting skills using Python and JavaScript that
+I continue to hone, and I'm always looking out for the next new skill or application to try out!
 
 
 ## Education
